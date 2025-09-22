@@ -196,6 +196,8 @@ A CSV at the `--out` location, including:
 
 Link to Video Demo of Loom demonstrating MVP working is here:
 
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/8405f2f89d9846a493faf9c304498ea7?sid=f9e107de-df54-48a2-b5e4-69040064ed54" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ---
 
@@ -221,3 +223,4 @@ Link to Video Demo of Loom demonstrating MVP working is here:
 ## Updates
 
 If you receive an updated `petition_analyzer.R`, replace the file. Run `Rscript install.R` again only if asked (when new packages are added).
+
