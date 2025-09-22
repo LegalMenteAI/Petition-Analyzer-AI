@@ -1,0 +1,10 @@
+data.table
+readr
+pdftools
+stringi
+stringr
+stringdist
+httr
+jsonlite
+readxl
+optparse
